@@ -1,3 +1,3 @@
-# JavaFX_test
+# JavaFX test project
 
 My JavaFX test project.
